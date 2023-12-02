@@ -390,6 +390,9 @@ export default function MobileNav({ paginate }: props) {
                 >
                   My Watchlist
                 </Disclosure.Button>
+                <div className="flex justify-center">
+		              <h3 className="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-center font-medium"><a href="./AplikasiAbsen">Absensi</a></h3>
+                </div>
               </div>
               <div className="pl-3 pb-3 border-t border-gray-700">
                 <div className="mt-3 px-2 flex justify-center mx-auto space-y-1">

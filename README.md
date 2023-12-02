@@ -117,7 +117,7 @@ You need to have `nodejs` and `git` installed on your pc for the upcoming steps.
 First download the repository using
 
 ```
-git clone https://github.com/Ashanime/Ashanime-Web-App
+git clone https://github.com/dopper-dev/Api-Anime-React
 ```
 
 This should download this repository to your computer. Next, to download the dependencies run
